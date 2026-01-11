@@ -1,0 +1,7719 @@
+[
+    {
+        "id_angkot": 1,
+        "warna": "Hijau - Kuning",
+        "jurusan": "ABDUL MUIS (Kebon Kelapa) - CICAHEUM via BINONG",
+        "forward": {
+            "lintasan_jalan": [
+                "Terminal Kebon Kelapa",
+                "Jl. Pungkur",
+                "Jl. Karapitan",
+                "Jl. Buah Batu",
+                "Jl. Banteng",
+                "Jl. Sancang",
+                "Jl. Lodaya",
+                "Jl. Martanegara",
+                "Jl. Turangga",
+                "Jl. Gatot Subroto",
+                "BSM",
+                "Binong",
+                "Jl. Kiara Condong",
+                "Jl. Jakarta",
+                "Jl. WR. Supratman",
+                "Jl. Katamso",
+                "Jl. Pahlawan",
+                "Jl. Cikutra",
+                "Jl. PHH. Mustofa (Suci)",
+                "Terminal Cicaheum"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        },
+        "backward": {
+            "lintasan_jalan": [
+                "Terminal Cicaheum",
+                "Jl. PHH. Mustofa (Suci)",
+                "Jl. Cikutra",
+                "Jl. Katamso",
+                "Jl. WR. Supratman",
+                "Jl. Ahmad Yani",
+                "Jl. Jakarta",
+                "Jl. Kiara Condong",
+                "Binong",
+                "BSM",
+                "Jl. Turangga",
+                "Jl. Martanegara",
+                "Jl. Lodaya",
+                "Jl. Gajah",
+                "Jl. Buah Batu",
+                "Jl. Gurame",
+                "Jl. Moh. Ramdan",
+                "Jl. BKR",
+                "Jl. Moh. Toha",
+                "Jl. Dewi Sartika",
+                "Terminal Kebon Kelapa"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        }
+    },
+    {
+        "id_angkot": 2,
+        "warna": "Hijau - Merah Marun",
+        "jurusan": "ABDUL MUIS (Kebon Kelapa) - CICAHEUM via ACEH - 05.00-19.00",
+        "forward": {
+            "lintasan_jalan": [
+                "Terminal Kebon Kelapa",
+                "Jl. Dewi Sartika",
+                "Jl. Kautamaan Istri",
+                "Jl. Balong Gede",
+                "Jl. Pungkur",
+                "Jl. Karapitan",
+                "Jl. Sunda",
+                "Jl. Lombok",
+                "Jl. Aceh",
+                "Jl. Taman Pramuka",
+                "Jl. Cendana",
+                "Taman WR. Supratman",
+                "Jl. Katamso",
+                "Jl. Pahlawan",
+                "Jl. Cikutra",
+                "Jl. PHH. Mustofa (Suci)",
+                "Terminal Cicaheum"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        },
+        "backward": {
+            "lintasan_jalan": [
+                "Terminal Cicaheum",
+                "Jl. PHH. Mustofa (Suci)",
+                "Jl. Cikutra",
+                "Jl. Katamso",
+                "Taman WR. Supratman",
+                "Jl. Cendana",
+                "Jl. Taman Pramuka",
+                "Jl. Aceh",
+                "Jl. Lombok",
+                "Jl. Belitung",
+                "Jl. Sumatera",
+                "Jl. Tamblong",
+                "Jl. Lengkong Besar",
+                "Jl. Ciateul",
+                "Jl. Dewi Sartika",
+                "Terminal Kebon Kelapa"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        }
+    },
+    {
+        "id_angkot": 3,
+        "warna": "Hijau - Oranye",
+        "jurusan": "ABDUL MUIS (Kebon Kelapa) - DAGO",
+        "forward": {
+            "lintasan_jalan": [
+                "Terminal Kebon Kelapa",
+                "Jl. Dewi Sartika",
+                "Jl. Kautamaan Istri",
+                "Jl. Balong Gede",
+                "Jl. Pungkur",
+                "Jl. Karapitan",
+                "Jl. Sunda",
+                "Jl. Sumbawa",
+                "Jl. Belitung",
+                "Jl. Sumatera",
+                "Jl. Aceh",
+                "Jl. Sulawesi",
+                "Jl. Seram",
+                "Jl. RE Martadinata (Riau)",
+                "Jl. Ir. H. Juanda (Dago)",
+                "RS. Boromeus (Dago)",
+                "ITB (Jl. Ganesha, Dago)",
+                "Simpang Dago",
+                "Terminal Dago"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        },
+        "backward": {
+            "lintasan_jalan": [
+                "Terminal Dago",
+                "Jl. H. Juanda (Dago)",
+                "Simpang Dago",
+                "ITB (Jl. Ganesha, Dago)",
+                "RS. Boromeus (Dago)",
+                "Jl. Sultan Agung",
+                "Jl. Trunojoyo",
+                "Jl. RE. Martadinata",
+                "BIP (Jl. Merdeka Dago)",
+                "Jl. Aceh",
+                "Jl. Kalimantan",
+                "Jl. Belitung",
+                "Jl. Sumatera",
+                "Jl. Tamblong",
+                "Jl. Lengkong Besar",
+                "Jl. Ciateul",
+                "Jl. Dewi Sartika",
+                "Terminal Kebon Kelapa"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        }
+    },
+    {
+        "id_angkot": 4,
+        "warna": "Hijau - Oranye",
+        "jurusan": "ABDUL MUIS (Kebon Kelapa) - ELANG",
+        "forward": {
+            "lintasan_jalan": [
+                "Terminal Kebon Kelapa",
+                "Jl. Pungkur",
+                "Jl. Otto Iskandardinata (Otista)",
+                "Jl. Ciateul",
+                "Jl. Astana Anyar",
+                "Jl. Panjunan",
+                "Jl. Kopo",
+                "Jl. Pasir Koja",
+                "Jl. Astana Anyar",
+                "Jl. Pagarsih",
+                "Jl. Nawawi",
+                "Jl. Aksan",
+                "Jl. Suryani",
+                "Jl. Holis",
+                "Jl. Bojong Raya",
+                "Jl. Cijerah",
+                "Jl. Sudirman",
+                "Jl. Rajawali Barat",
+                "Jl. Elang",
+                "Terminal Elang"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        },
+        "backward": {
+            "lintasan_jalan": [
+                "Terminal Elang",
+                "Jl. Sukarno-Hatta",
+                "Jl. Holis",
+                "Jl. Nana Rohana",
+                "Jl. Suryani",
+                "Jl. Situ Aksan",
+                "Jl. Pagarsih",
+                "Jl. Kalipah Apo",
+                "Jl. Otto Iskandardinata (Otista)",
+                "Jl. Ciateul",
+                "Jl. Dewi Sartika",
+                "Terminal Kebon Kelapa"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        }
+    },
+    {
+        "id_angkot": 5,
+        "warna": "Hijau - Biru Muda",
+        "jurusan": "ABDUL MUIS (Kebon Kelapa) - LEDENG",
+        "forward": {
+            "lintasan_jalan": [
+                "Terminal Kebon Kelapa",
+                "Jl. Dewi Sartika",
+                "Jl. Kautamaan Istri",
+                "Jl. Balong Gede",
+                "Jl. Pungkur",
+                "Jl. Karapitan",
+                "Jl. Sunda",
+                "Jl. Sumbawa",
+                "Jl. Lombok",
+                "Jl. Banda",
+                "Jl. RE Martadinata (Riau)",
+                "BIP (Dago)",
+                "Jl. Merdeka",
+                "Jl. Aceh",
+                "Jl. Wastu Kencana",
+                "Jl. Rivai",
+                "Jl. Cipaganti",
+                "Jl. Setiabudi",
+                "Jl. Karang Sari",
+                "Jl. Sukajadi",
+                "Jl. Setiabudi",
+                "Terminal Ledeng"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        },
+        "backward": {
+            "lintasan_jalan": [
+                "Terminal Ledeng",
+                "Jl. Setiabudi",
+                "Jl. Cihampelas",
+                "Jl. Wastu Kencana",
+                "Jl. RE. Martadinata",
+                "Jl. Purnawarman",
+                "BEC (Purnawarman)",
+                "Jl. Wastu Kencana",
+                "Jl. Aceh",
+                "Jl. Kalimantan",
+                "Jl. Belitung",
+                "Jl. Sumatera",
+                "Jl. Tamblong",
+                "Jl. Lengkong Besar",
+                "Jl. Ciateul",
+                "Jl. Dewi Sartika",
+                "Terminal Kebon Kelapa"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        }
+    },
+    {
+        "id_angkot": 6,
+        "warna": "Krem - Hijau",
+        "jurusan": "ANTAPANI - CIROYOM - 05.00-22.00",
+        "forward": {
+            "lintasan_jalan": [
+                "Terminal Antapani",
+                "Jl. Cibatu (Antapani)",
+                "Jl. Purwakarta (Antapani)",
+                "Jl. Jakarta",
+                "Jl. Sukabumi",
+                "Jl. Laswi",
+                "Stadion Persib (Ahmad Yani)",
+                "Jl. Ahmad Yani",
+                "Jl. Gudang Utara",
+                "Jl. Bangka",
+                "Jl. Belitung",
+                "Jl. Sumatera",
+                "Jl. Aceh",
+                "Jl. Merdeka",
+                "Jl. Perintis Kemerdekaan",
+                "Wastu Kencana",
+                "Jl. Pajajaran",
+                "Jl. Cicendo",
+                "Jl. Kebon Kawung",
+                "Stasiun Bandung (Kebon Kawung)",
+                "Jl. Pasir Kaliki",
+                "Istana Plaza (Pajajaran)",
+                "Jl. Pajajaran",
+                "Jl. Abdul Rahman Saleh",
+                "Jl. Garuda",
+                "Jl. Ciroyom",
+                "Terminal Ciroyom"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        },
+        "backward": {
+            "lintasan_jalan": [
+                "Terminal Ciroyom",
+                "Jl. Ciroyom",
+                "Jl. Arjuna",
+                "Jl. Pajajaran",
+                "Istana Plaza (Pajajaran)",
+                "Jl. Cihampelas",
+                "Jl. Wastu Kencana",
+                "Jl. RE. Martadinata",
+                "Jl. Purnawarman",
+                "BEC (Purnawarman)",
+                "Jl. Wastu Kencana",
+                "Jl. Aceh",
+                "Jl. Kalimantan",
+                "Jl. Belitung",
+                "Jl. Bangka",
+                "Jl. Gudang Utara",
+                "Jl. Ahmad Yani",
+                "Stadion Persib (Ahmad Yani)",
+                "Cicadas (Ahmad Yani)",
+                "Jl. Kiara Condong",
+                "Jl. Jakarta (Antapani)",
+                "Jl. Subang (Antapani)",
+                "Jl. Cibatu (Antapani)",
+                "Terminal Antapani"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        }
+    },
+    {
+        "id_angkot": 7,
+        "warna": "Krem - Hijau",
+        "jurusan": "BUAH BATU - SEDERHANA (Buah Batu - Kebon Kelapa)",
+        "forward": {
+            "lintasan_jalan": [
+                "Terminal Buah Batu",
+                "Jl. Buah Batu",
+                "Jl. Gurame",
+                "Jl. Karapitan",
+                "Jl. Lengkong Kecil",
+                "Jl. Lengkong Besar",
+                "Jl. Ciateul",
+                "Jl. Dewi Sartika",
+                "Terminal Kebon Kelapa"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        },
+        "backward": {
+            "lintasan_jalan": [
+                "Terminal Kebon Kelapa",
+                "Jl. Dewi Sartika",
+                "Jl. Banceuy",
+                "Jl. Suniaraja",
+                "Jl. Otista",
+                "Jl. Stasiun Timur",
+                "Jl. Kebon Jukut",
+                "Jl. Kebon Kawung (Stasiun Bandung)",
+                "Jl. Pasir Kaliki",
+                "Jl. Pajajaran",
+                "Jl. Cihampelas",
+                "Jl. Rivai",
+                "Jl. Rum",
+                "Jl. Gunawan",
+                "Jl. Otten",
+                "Jl. Pasteur",
+                "Jl. Pasir Kaliki (RS. Hasan Sadikin)",
+                "Jl. Sederhana",
+                "Terminal Sederhana"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        }
+    },
+    {
+        "id_angkot": 8,
+        "warna": "Krem - Hijau",
+        "jurusan": "SEDERHANA - BUAH BATU (Sederhana - Kebon Kelapa)",
+        "forward": {
+            "lintasan_jalan": [
+                "Terminal Sederhana",
+                "Jl. Jurang",
+                "Jl. Cemara",
+                "Jl. Sukajadi",
+                "Jl. Pasir Kaliki (RS. Hasan Sadikin)",
+                "Jl. Pasteur",
+                "Jl. Cihampelas",
+                "Jl. Wastu Kencana",
+                "Jl. Pajajaran",
+                "Jl. Cicendo",
+                "Jl. Kebon Jukut",
+                "Viaduct",
+                "Jl. Braga",
+                "Jl. Lembong",
+                "Jl. Tamblong",
+                "Jl. Lengkong Besar",
+                "Jl. Ciateul",
+                "Jl. Dewi Sartika",
+                "Terminal Kebon Kelapa"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        },
+        "backward": {
+            "lintasan_jalan": [
+                "Terminal Kebon Kelapa",
+                "Jl. Dalem Kaum",
+                "Jl. Lengkong Besar",
+                "Jl. Cikawao",
+                "Jl. Buah Batu",
+                "Jl. Banteng",
+                "Jl. Gajah",
+                "Jl. Buah Batu",
+                "Terminal Buah Batu"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        }
+    },
+    {
+        "id_angkot": 9,
+        "warna": "BUMI ASRI - CIROYOM",
+        "jurusan": "BUMI ASRI - CIROYOM",
+        "forward": {
+            "lintasan_jalan": [
+                "Bumi Asri",
+                "Jl. Cijerah",
+                "Jl. Bojong Raya",
+                "Jl. Holis",
+                "Jl. Sukarno-Hatta",
+                "Jl. Sudirman",
+                "Jl. Rajawali Barat",
+                "Jl. Rajawali Timur",
+                "Jl. Kebon Jati",
+                "Jl. Stasiun Timur",
+                "Viaduct",
+                "Jl. Wastu Kencana",
+                "Jl. Rivai",
+                "Jl. Cipto",
+                "Jl. Pasir Kaliki",
+                "Istana Plaza (Pasir Kaliki)",
+                "Jl. Pajajaran",
+                "Jl. Arjuna",
+                "Jl. Supadio",
+                "Jl. Ciroyom",
+                "Terminal Ciroyom"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        },
+        "backward": {
+            "lintasan_jalan": [
+                "Terminal Ciroyom",
+                "Jl. Ciroyom",
+                "Jl. Garuda",
+                "Jl. Sudirman",
+                "Jl. Sukarno-Hatta",
+                "Jl. Holis",
+                "Jl. Bojong Raya",
+                "Jl. Cijerah",
+                "Bumi Asri"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        }
+    },
+    {
+        "id_angkot": 10,
+        "warna": "CARINGIN - DAGO",
+        "jurusan": "CARINGIN - DAGO",
+        "forward": {
+            "lintasan_jalan": [
+                "Pasar Induk Caringin",
+                "Jl. Babakan Ciparay",
+                "Jl. Sukarno-Hatta",
+                "Jl. Sukamulya",
+                "Jl. Terusan Jamika",
+                "Jl. Jamika",
+                "Jl. Sudirman",
+                "Jl. Guanan",
+                "Jl. Kebon Jati",
+                "Jl. Pasir Kaliki",
+                "Jl. Pajajaran",
+                "Jl. Cihampelas",
+                "Jl. Wastu Kencana",
+                "Jl. RE. Martadinata",
+                "Jl. Purnawarman",
+                "UNISBA & UNPAS (Tamansari)",
+                "Jl. Tamansari",
+                "Jl. Cikapayang",
+                "Jl. Surapati (Suci)",
+                "Jl. Pahlawan",
+                "Jl. Cikutra Barat",
+                "Jl. Cigadung Raya",
+                "Terminal Dago"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        },
+        "backward": {
+            "lintasan_jalan": [
+                "Terminal Dago",
+                "Jl. Cigadung Raya",
+                "Jl. Cikutra Barat",
+                "Jl. Pahlawan",
+                "Jl. Surapati (Suci)",
+                "Jl. Cikapayang",
+                "Jl. Tamansari",
+                "Jl. Sawunggaling",
+                "Jl. Rangga Gading",
+                "UNISBA & UNPAS (Tamansari)",
+                "Jl. Tamansari",
+                "Jl. Wastu Kencana",
+                "Jl. Purnawarman",
+                "Jl. Pajajaran",
+                "Jl. Cicendo",
+                "Jl. Rivai",
+                "Jl. Pasir Kaliki",
+                "Jl. Pajajaran",
+                "Jl. Arjuna",
+                "Jl. Supadio",
+                "Jl. Ciroyom",
+                "Jl. Rajawali Timur",
+                "Jl. Kebon Jati",
+                "Jl. Waringin",
+                "Jl. Sudirman",
+                "Jl. Jamika",
+                "Jl. Terusan Jamika",
+                "Jl. Sukamulya",
+                "Jl. Sukarno-Hatta",
+                "Jl. Babakan Ciparay",
+                "Pasar Induk Caringin (Sukarno-Hatta)"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        }
+    },
+    {
+        "id_angkot": 11,
+        "warna": "CARINGIN - SADANG SERANG",
+        "jurusan": "CARINGIN - SADANG SERANG",
+        "forward": {
+            "lintasan_jalan": [
+                "Terminal Caringin",
+                "Jl. Caringin",
+                "Jl. Holis",
+                "Jl. Bojong Raya",
+                "Jl. Cijerah",
+                "Jl. Sudirman",
+                "Jl. Rajawali Barat",
+                "Jl. Garuda",
+                "Jl Abdul Rahman Saleh",
+                "Jl. Pajajaran",
+                "Jl. Pandu",
+                "Jl. Rajiman",
+                "Jl. Rivai",
+                "Jl. Wastu Kencana",
+                "Jl. Tamansari",
+                "Jl. Ganesha",
+                "Jl. Ir. H. Juanda (Dago)",
+                "Jl. TB. Ismail",
+                "Jl. Sadang Serang",
+                "Terminal Sadang Serang"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        },
+        "backward": {
+            "lintasan_jalan": [
+                "Terminal Sadang Serang",
+                "Jl. Serang Serang",
+                "Jl. Tubagus Ismail",
+                "Simpang Dago",
+                "Jl. Tamansari",
+                "Jl. Sawunggaling",
+                "Jl. Tamansari",
+                "Jl. Wastu Kencana",
+                "Jl. RE. Martadinata",
+                "Jl. Purnawarman",
+                "Jl. Wastu Kencana",
+                "Jl. Pajajaran",
+                "Jl. Cicendo",
+                "Jl. Kebon Kawung",
+                "Stasiun Bandung (Kebon Kawung)",
+                "Jl. Pasir Kaliki",
+                "Jl. Kresna",
+                "Jl. Bima",
+                "Jl. Pajajaran",
+                "Jl. Abdul Rahman Saleh",
+                "Jl. Garuda",
+                "Jl. Sudirman",
+                "Jl. Cijerah",
+                "Jl. Bojong Raya",
+                "Jl. Holis",
+                "Jl. Caringin",
+                "Terminal Caringin"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        }
+    },
+    {
+        "id_angkot": 12,
+        "warna": "CIBADUYUT - CICAHEUM",
+        "jurusan": "CIBADUYUT - CICAHEUM",
+        "forward": {
+            "lintasan_jalan": [
+                "Terminal Cibaduyut",
+                "Jl. Cibaduyut",
+                "Jl. Kopo",
+                "Terminal Leuwi Panjang (Sukarno-Hatta)",
+                "Jl. Sukarno-Hatta",
+                "Jl. Kiara Condong",
+                "Jl. Jakarta",
+                "*Jl. WR. Supratman",
+                "*Jl. Katamso",
+                "*Jl. Pahlawan",
+                "*Jl. Cikutra",
+                "*Jl. PHH. Mutofa (Suci)",
+                "*Terminal Cicaheum"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        },
+        "backward": {
+            "lintasan_jalan": [
+                "*Terminal Cicaheum",
+                "*Jl. PHH. Mustofa (Suci)",
+                "*Jl. Katamso",
+                "*Jl. WR. Supratman",
+                "*Jl. Ahmad Yani",
+                "Jl. Jakarta",
+                "Jl. Kiara Condong",
+                "Jl. Sukarno-Hatta",
+                "Terminal Leuwi Panjang (Sukarno-Hatta)",
+                "Jl. Kopo",
+                "Jl. Cibaduyut",
+                "Terminal Cibaduyut"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        }
+    },
+    {
+        "id_angkot": 13,
+        "warna": "CICAHEUM - CIBADUYUT",
+        "jurusan": "CIBADUYUT - KARANG SETRA (Cibaduyut - Kebon Kalapa)",
+        "forward": {
+            "lintasan_jalan": [
+                "Jl. Cibaduyut",
+                "Jl. Bojongloa",
+                "Jl. Peta",
+                "Jl. BKR",
+                "Jl. Moh. Toha",
+                "Jl. Pungkur",
+                "Terminal Kebon Kalapa"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        },
+        "backward": {
+            "lintasan_jalan": [
+                "Terminal Kebon Kalapa",
+                "Jl. Pasir Koja",
+                "Jl. Pajagalan",
+                "Jl. Gardu Jati",
+                "Jl. Pasir Kaliki",
+                "Jl. Sukajadi",
+                "Karang Setra"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        }
+    },
+    {
+        "id_angkot": 14,
+        "warna": "CICAHEUM - CIBADUYUT",
+        "jurusan": "KARANG SETRA - CIBADUYUT (Karang Setra - Kebon Kalapa)",
+        "forward": {
+            "lintasan_jalan": [
+                "Karang Setra",
+                "Jl. Sukajadi",
+                "Jl. Pasir Kaliki",
+                "Jl. Pajajaran",
+                "Jl. Cicendo",
+                "Jl. Pasir Kaliki",
+                "Jl. Kebon Jati",
+                "Jl. Dulatip",
+                "Jl. Sudirman",
+                "Jl. Astana Anyar",
+                "Jl. Pasir Koja",
+                "Terminal Kebon Kalapa"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        },
+        "backward": {
+            "lintasan_jalan": [
+                "Terminal Kebon Kalapa",
+                "Jl. Otto Iskandardinata",
+                "Jl. Peta",
+                "Jl. Bojongloa",
+                "Jl. Cibaduyut"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        }
+    },
+    {
+        "id_angkot": 15,
+        "warna": "CIBIRU - CICADAS",
+        "jurusan": "CIBIRU - CICADAS",
+        "forward": {
+            "lintasan_jalan": [
+                "Terminal Cibiru",
+                "Jl. Sukarno-Hatta",
+                "Pasar Induk Gede Bage (Sukarno-Hatta)",
+                "Riung Bandung (Sukarno-Hatta)",
+                "Metro (Sukarno-Hatta)",
+                "Margahayu Raya (Sukarno-Hatta)",
+                "Jl. Kiara Condong",
+                "Jl. Jakarta",
+                "Jl. Ahmad Yani",
+                "Cicadas (Ahmad Yani)"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        },
+        "backward": {
+            "lintasan_jalan": [
+                "Cicadas (Ahmad Yani)",
+                "Jl. Kiara Condong",
+                "Jl. Sukarno-Hatta",
+                "Margahayu Raya (Sukarno-Hatta)",
+                "Metro (Sukarno-Hatta)",
+                "Riung Bandung (Sukarno-Hatta)",
+                "Pasar Induk Gede Bage (Sukarno-Hatta)",
+                "Terminal Cibiru"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        }
+    },
+    {
+        "id_angkot": 16,
+        "warna": "CIBOGO - ELANG",
+        "jurusan": "CIBOGO - ELANG",
+        "forward": {
+            "lintasan_jalan": [
+                "Cibogo",
+                "Jl. Hercules",
+                "Jl. Pinggir Tol",
+                "Jl. Sukawarna",
+                "Jl. Suparmin",
+                "Jl. Sebelah IPTN",
+                "Jl. Pajajaran",
+                "Jl. Abdul Rahman Saleh",
+                "Jl. Garuda",
+                "Jl. Sudirman",
+                "Elang"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        },
+        "backward": {
+            "lintasan_jalan": [
+                "Elang",
+                "Jl. Rajawali Timur",
+                "Jl. Garuda",
+                "Jl. Abdul Rahman Saleh",
+                "Jl. Pajajaran",
+                "Jl. Sebelah IPTN",
+                "Jl. Suparmin",
+                "Jl. Sukawarna",
+                "Jl. DR. Junjunan (Terusan Pasteur)",
+                "Jl. Pinggir Tol",
+                "Jl. Hercules",
+                "Cibogo"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        }
+    },
+    {
+        "id_angkot": 17,
+        "warna": "Hijau - strip Krem",
+        "jurusan": "CIBURIAL - CIROYOM (angkot jarang)",
+        "forward": {
+            "lintasan_jalan": [
+                "Ciburial (Dago Atas)",
+                "Terminal Dago",
+                "Jl. H. Juanda (Dago)",
+                "Simpang Dago",
+                "ITB (Jl. Ganesha, Dago)",
+                "RS. Boromeus (Dago)",
+                "Jl. Sulanjana",
+                "Jl. Tamansari",
+                "Jl. Sawunggaling",
+                "Jl. Tamansari",
+                "Jl. Wastu Kencana",
+                "Jl. Pajajaran",
+                "Jl. Cicendo",
+                "Jl. Kebon Kawung",
+                "Stasiun Bandung (Kebon Kawung)",
+                "Jl. Pajajaran",
+                "Jl. Abdul Rahman Saleh",
+                "Jl. Garuda",
+                "Jl. Ciroyom",
+                "Terminal Ciroyom"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        },
+        "backward": {
+            "lintasan_jalan": [
+                "Terminal Ciroyom",
+                "Jl. Ciroyom",
+                "Jl. Arjuna",
+                "Jl. Pajajaran",
+                "Jl. Cihampelas",
+                "Jl. Wastu Kencana",
+                "Jl. Tamansari",
+                "Jl. Sulanjana",
+                "Jl. H. Juanda (Dago)",
+                "RS. Boromeus (Dago)",
+                "ITB (Jl. Ganesha)",
+                "Simpang Dago",
+                "Terminal Dago",
+                "Ciburial (Dago Atas)"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        }
+    },
+    {
+        "id_angkot": 18,
+        "warna": "CICADAS - ELANG",
+        "jurusan": "CICADAS - ELANG",
+        "forward": {
+            "lintasan_jalan": [
+                "Cicadas",
+                "Jl. Kiara Condong",
+                "Jl. Gatot Subroto",
+                "Jl. Burangrang",
+                "Jl. Sadakeling",
+                "Jl. Buah Batu",
+                "Jl. Gurame",
+                "Jl. Karapitan",
+                "Jl. Lengkong Kecil",
+                "Jl. Lengkong Besar",
+                "Jl. Pungkur",
+                "Terminal Kebon Kelapa",
+                "Jl. Dewi Sartika",
+                "Alun-Alun",
+                "Jl. Banceuy",
+                "Jl. Suniaraja",
+                "Jl. Otista",
+                "Jl. Stasiun Timur",
+                "Viaduct",
+                "Jl. Kebon Jukut",
+                "Jl. Kebon Kawung",
+                "Stasiun Bandung (Kebon Kawung)",
+                "Jl. Pasir Kaliki",
+                "Jl. Pajajaran",
+                "Jl. Abdul Rahman Saleh",
+                "Jl. Garuda",
+                "Jl. Dadali",
+                "Jl. Kasuari",
+                "Jl. Rajawali Barat",
+                "Elang"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        },
+        "backward": {
+            "lintasan_jalan": [
+                "Elang",
+                "Jl. Rajawali Timur",
+                "Jl. Kebon Jati",
+                "Jl. Otto Iskandardinata (Otista)",
+                "Jl. Ciateul",
+                "Jl. Moh. Toha",
+                "Jl. Pungkur",
+                "Terminal Kebon Kelapa",
+                "Jl. Dewi Sartika",
+                "Jl. Dalem Kaum",
+                "Jl. Lengkong Besar",
+                "Jl. Cikawao",
+                "Jl. Sadakeling",
+                "Jl. Burangrang",
+                "Jl. Gatot Subroto",
+                "Jl. Kiara Condong",
+                "Jl. Jakarta",
+                "Jl. Ahmad Yani",
+                "Cicadas"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        }
+    },
+    {
+        "id_angkot": 19,
+        "warna": "CICAHEUM - CIROYOM",
+        "jurusan": "CICAHEUM - CIROYOM",
+        "forward": {
+            "lintasan_jalan": [
+                "Terminal Cicaheum",
+                "Jl. PHH. Mustofa (Suci)",
+                "Jl. Surapati (Suci)",
+                "Lapangan Gasibu (Surapati)",
+                "Jl. Panatayuda",
+                "Jl. Dipati Ukur",
+                "Simpang Dago",
+                "Jl. Sumur Bandung",
+                "Jl. Tamansari",
+                "Jl. Siliwangi",
+                "Jl. Cihampelas",
+                "Jl. Eyckman",
+                "RS. Hasan Sadikin",
+                "Jl. Pasir Kaliki",
+                "Jl. Pajajaran",
+                "Jl. Abdul Rahman Saleh",
+                "Jl. Garuda",
+                "Jl. Ciroyom",
+                "Terminal Ciroyom"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        },
+        "backward": {
+            "lintasan_jalan": [
+                "Terminal Ciroyom",
+                "Jl. Ciroyom",
+                "Jl. Arjuna",
+                "Jl. Pajajaran",
+                "Jl. Pasir Kaliki",
+                "RS Hasan Sadikin",
+                "Jl. Eyckman",
+                "Jl. Cipaganti",
+                "Jl. Setiabudi",
+                "Jl. Cihampelas",
+                "Jl. Siliwangi",
+                "Simpang Dago",
+                "Jl. Dipati Ukur",
+                "Jl. Singa Perbangsa",
+                "Monumen Perjuangan",
+                "Jl. Japati",
+                "Lapangan Gasibu (Surapati)",
+                "Jl. Surapati (Suci)",
+                "Jl. PHH. Mustofa (Suci)",
+                "Terminal Cicaheum"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        }
+    },
+    {
+        "id_angkot": 20,
+        "warna": "CICAHEUM - CIWASTRA",
+        "jurusan": "CICAHEUM - CIWASTRA",
+        "forward": {
+            "lintasan_jalan": [
+                "*Terminal Cicaheum",
+                "*Jl. PHH. Mustofa (Suci)",
+                "Jl. Surapati (Suci)",
+                "Jl. Sentot Alibasyah",
+                "Jl. Diponegoro",
+                "Jl. WR. Supratman",
+                "Jl. Ahmad Yani",
+                "Jl. Jakarta",
+                "Jl. Kiara Condong",
+                "Jl. Terusan Kiara Condong",
+                "Jl. Margacinta",
+                "Jl. Ciwastra",
+                "Terminal Ciwastra"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        },
+        "backward": {
+            "lintasan_jalan": [
+                "Terminal Ciwastra",
+                "Jl. Ciwastra",
+                "Jl. Margacinta",
+                "Jl. Terusan Kiara Condong",
+                "Jl. Kiara Condong",
+                "Jl. Jakarta",
+                "Jl. WR. Supratman",
+                "Jl. Diponegoro",
+                "Jl. Sentot Alibasyah Lapangan Gasibu",
+                "Jl. Surapati (Suci)",
+                "*Jl. PHH. Mustofa (Suci)",
+                "*Terminal Cicaheum"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        }
+    },
+    {
+        "id_angkot": 21,
+        "warna": "CICAHEUM - CILEUNYI",
+        "jurusan": "CICAHEUM - CILEUNYI",
+        "forward": {
+            "lintasan_jalan": [
+                "**Jl. Garuda",
+                "**Jl. Kebon Jati",
+                "**Jl. Suniaraja",
+                "**Jl. Otto Iskandardinata (Otista)",
+                "**Jl. ABC",
+                "**Jl. Naripan",
+                "**Jl. Sunda",
+                "**Jl. Veteran",
+                "**Jl. Ahmad Yani",
+                "**Pasar Kosambi (Ahmad Yani)",
+                "**Cicadas (Ahmad Yani)",
+                "Terminal Cicaheum",
+                "Jl. AH. Nasution",
+                "Sindanglaya (Nasution)",
+                "Ujung Berung (Nasution)",
+                "Cilengkrang (Nasution)",
+                "Jl. Cibiru",
+                "Batas Kotamadya Bandung- Jl. Cinunuk",
+                "Jl. Cileunyi",
+                "Terminal Cileunyi",
+                "*Pintu Tol Cileunyi"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        },
+        "backward": {
+            "lintasan_jalan": [
+                "Terminal Cileunyi",
+                "Jl. Cileunyi",
+                "Jl. Cinunuk",
+                "Batas Kotamadya Bandung",
+                "Jl. Cibiru",
+                "Jl. AH. Nasution",
+                "Cilengkrang (Nasution)",
+                "Ujung Berung (Nasution)",
+                "Sindanglaya (Nasution)",
+                "Terminal Cicaheum",
+                "**Jl. Ahmad Yani",
+                "**Cicadas (Ahmad Yani)",
+                "**Jl. Kiara Condong",
+                "**Jl. Jakarta",
+                "**Jl. Ahmad Yani",
+                "**Pasar Kosambi (Ahmad Yani)",
+                "**Jl. Asia-Afrika",
+                "**Jl. Sudirman"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        }
+    },
+    {
+        "id_angkot": 22,
+        "warna": "CICAHEUM - LEDENG",
+        "jurusan": "CICAHEUM - LEDENG",
+        "forward": {
+            "lintasan_jalan": [
+                "Terminal Cicaheum",
+                "Jl. PHH. Mustofa (Suci)",
+                "Jl. Katamso",
+                "Jl. WR. Supratman",
+                "Jl. Diponegoro",
+                "Jl. Sulanjana",
+                "Jl. Tamansari",
+                "Jl. Siliwangi",
+                "Jl. Cihampelas",
+                "Jl. Lamping",
+                "Jl. Cipaganti",
+                "Jl. Setiabudi",
+                "Jl. Karang Sari",
+                "Jl. Sukajadi",
+                "Jl. Setiabudi",
+                "Terminal Ledeng"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        },
+        "backward": {
+            "lintasan_jalan": [
+                "Terminal Ledeng",
+                "Jl. Setiabudi",
+                "Jl. Cihampelas",
+                "Jl. Siliwangi",
+                "Jl. Sumur Bandung",
+                "Jl. Tamansari",
+                "Jl. Sulanjana",
+                "Jl. Diponegoro",
+                "Jl. WR. Supratman",
+                "Jl. Katamso",
+                "Jl. Pahlawan",
+                "Jl. Cikutra",
+                "Jl. PHH. Mustofa (Suci)",
+                "Terminal Cicaheum"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        }
+    },
+    {
+        "id_angkot": 23,
+        "warna": "CIJERAH - CIWASTRA",
+        "jurusan": "CIJERAH - CIWASTRA",
+        "forward": {
+            "lintasan_jalan": [
+                "Jl. Cijerah",
+                "Jl. Bojong Raya",
+                "Jl. Holis",
+                "Jl. Caringin",
+                "Jl. Kopo",
+                "Jl. Peta",
+                "Jl. BKR",
+                "Jl. Moh. Ramdan",
+                "Jl. Sadakeling",
+                "Jl. Talaga Bodas",
+                "Jl. Pelajar Pejuang",
+                "Jl. Martanegara",
+                "Jl. Reog",
+                "Jl. Karawitan",
+                "Jl. Kliningan",
+                "Jl. Buah Batu",
+                "Jl. Sukarno-Hatta",
+                "Jl. Terusan Kiara Condong",
+                "Jl. Margacinta",
+                "Jl. Ciwastra",
+                "Terminal Ciwastra"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        },
+        "backward": {
+            "lintasan_jalan": [
+                "Terminal Ciwastra",
+                "Jl. Ciwastra",
+                "Jl. Margacinta",
+                "Jl. Terusan Kiara Condong",
+                "Jl. Sukarno-Hatta",
+                "Jl. Buah Batu",
+                "Jl. Kliningan",
+                "Jl. Karawitan",
+                "Jl. Reog",
+                "Jl. Martanegara",
+                "Jl. Lodaya",
+                "Jl. Sadakeling",
+                "Jl. Buah Batu",
+                "Jl. Moh. Ramdan",
+                "Jl. BKR",
+                "Jl. Peta",
+                "Jl. Bojongloa",
+                "Jl. Sukarno-Hatta",
+                "Jl. Caringin",
+                "Jl. Holis",
+                "Jl. Bojong Raya",
+                "Jl. Cijerah"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        }
+    },
+    {
+        "id_angkot": 24,
+        "warna": "CIJERAH - SEDERHANA",
+        "jurusan": "CIJERAH - SEDERHANA",
+        "forward": {
+            "lintasan_jalan": [
+                "Jl. Melong Asih",
+                "Jl. Cijerah",
+                "Jl. Sudirman",
+                "Jl. Rajawali Barat",
+                "Jl. Garuda",
+                "Jl. Abdul Rahman Saleh",
+                "Jl. Pajajaran",
+                "Jl. Pandu",
+                "Jl. Dursasana",
+                "Jl. Pasir Kaliki",
+                "Jl. Sederhana"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        },
+        "backward": {
+            "lintasan_jalan": [
+                "Jl. Sederhana",
+                "Jl. Pasir Kaliki",
+                "Istana Plaza (Pasir Kaliki)",
+                "Jl. Pajajaran",
+                "Jl. Abdul Rahman Saleh",
+                "Jl. Garuda",
+                "Jl. Sudirman",
+                "Jl. Cijerah",
+                "Jl. Melong Asih"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        }
+    },
+    {
+        "id_angkot": 25,
+        "warna": "CIKUDAPATEUH - CIROYOM",
+        "jurusan": "CIKUDAPATEUH - CIROYOM",
+        "forward": {
+            "lintasan_jalan": [
+                "Jl. Cikudapateuh",
+                "Jl. Kembang Sepatu",
+                "Jl. Tarate",
+                "Jl. Samboja",
+                "Jl. Laswi",
+                "Jl. Gatot Subroto",
+                "Jl. Malabar",
+                "Jl. Buah Batu",
+                "Jl. Gurame",
+                "Jl. Moh. Ramdan",
+                "Jl. BKR",
+                "Jl. Peta",
+                "Jl. Kopo",
+                "Jl. Pasir Koja",
+                "Jl. Astana Anyar",
+                "Jl. Cibadak",
+                "Jl. Sudirman",
+                "Jl. Guanan",
+                "Jl. Kebon Jati",
+                "Jl. Arjuna",
+                "Terminal Ciroyom"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        },
+        "backward": {
+            "lintasan_jalan": [
+                "Terminal Ciroyom",
+                "Jl. Arjuna",
+                "Jl. Kebon Jati",
+                "Jl. Gardu Jati",
+                "Jl. Astana Anyar",
+                "Jl. Kopo",
+                "Jl. Peta",
+                "Jl. BKR",
+                "Jl. Moh. Ramdan",
+                "Jl. Banteng",
+                "Jl. Ahmad Yani",
+                "Jl. Cikudapateuh"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        }
+    },
+    {
+        "id_angkot": 26,
+        "warna": "CIMINDI - SEDERHANA",
+        "jurusan": "CIMINDI - SEDERHANA",
+        "forward": {
+            "lintasan_jalan": [
+                "Cimindi",
+                "Jl. Gunung Batu",
+                "Jl. DR. Junjunan (Terusan Pasteur)",
+                "Jl. Cipedes Kidul",
+                "Jl. Sukajadi",
+                "Jl. Cemara",
+                "Jl. Jurang",
+                "Sederhana"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        },
+        "backward": {
+            "lintasan_jalan": [
+                "Jl. Sederhana",
+                "Jl. Sukajadi",
+                "Jl. Sukagalih",
+                "Jl. Cipedes Kidul",
+                "Jl. DR. Junjunan (Terusan Pasteur)",
+                "Jl. Gunung Batu",
+                "Cimindi"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        }
+    },
+    {
+        "id_angkot": 27,
+        "warna": "CIROYOM - SARIJADI",
+        "jurusan": "CIROYOM - SARIJADI",
+        "forward": {
+            "lintasan_jalan": [
+                "Terminal Ciroyom",
+                "Jl. Arjuna",
+                "Jl. Pajajaran",
+                "Jl. Baladewa",
+                "Jl. Dursasana",
+                "Jl. Pasir Kaliki",
+                "Jl. Sukajadi",
+                "Jl. Sindang Sirna",
+                "Jl. Sindang Sirna",
+                "Jl. Geger Kalong Hilir",
+                "Jl. Sari Endah",
+                "Jl. Sari Jadi",
+                "Jl. Sari Manah (Sarijadi)",
+                "Jl. Sari Wangi (Sarijadi)",
+                "Terminal Sarijadi"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        },
+        "backward": {
+            "lintasan_jalan": [
+                "Terminal Sarijadi",
+                "Jl. Sari Wangi (Sarijadi)",
+                "Jl. Sari Manah (Sarijadi)",
+                "Jl. Sari Asih (Sarijadi)",
+                "Jl. Sari Jadi",
+                "Jl. Geger Kalong Hilir",
+                "Jl. Cipedes",
+                "Jl. Sindang Sirna",
+                "Jl. Sirnagalih",
+                "Jl. Sukajadi",
+                "Jl. Sukamaju",
+                "Jl. Sederhana",
+                "RS. Hasan Sadikin",
+                "Jl. Pasir Kaliki",
+                "Jl. Pajajaran",
+                "Jl. Abdul Rahman Saleh",
+                "Jl. Ciroyom",
+                "Terminal Ciroyom"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        }
+    },
+    {
+        "id_angkot": 28,
+        "warna": "Ungu - Hijau",
+        "jurusan": "CISITU - TEGALEGA - 05.00-21.00",
+        "forward": {
+            "lintasan_jalan": [
+                "Terminal Cisitu",
+                "Jl. Cisitu Lama VIII",
+                "Jl. Cisitu",
+                "Jl. Sangkuriang",
+                "Jl. Siliwangi",
+                "Jl. Sumur Bandung",
+                "Jl. Tamansari",
+                "Jl. Siliwangi",
+                "Jl. Cihampelas",
+                "Jl. Wastu Kencana",
+                "Jl. Pajajaran",
+                "Jl. Cicendo",
+                "Jl. Kebon Kawung",
+                "Stasiun Bandung (Kebon Kawung)",
+                "Jl. Pasir Kaliki",
+                "Jl. Kebon Jati",
+                "Jl. Suniaraja",
+                "Terminal Stasiun",
+                "Jl. Dulatip",
+                "Pasar Baru",
+                "Jl. Sudirman",
+                "Jl. Astana Anyar",
+                "Jl. Kalipah Apo",
+                "Jl. Otto Iskandardinata (Otista)",
+                "Terminal Tegalega"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        },
+        "backward": {
+            "lintasan_jalan": [
+                "Terminal Tegalega",
+                "Jl. Astana Anyar",
+                "Jl. Panjunan",
+                "Jl. Kopo",
+                "Jl. Pasir Koja",
+                "Jl. Pajagalan??",
+                "Jl. Gardu Jati",
+                "Jl. Suniaraja",
+                "Terminal Stasiun",
+                "Jl. Otista",
+                "Jl. Stasiun Timur",
+                "Viaduct",
+                "Jl. Kebon Jukut",
+                "Jl. Kebon Kawung",
+                "Stasiun Bandung (Kebon Kawung)",
+                "Jl. Pasir Kaliki",
+                "Jl. Pajajaran",
+                "Jl. Cihampelas",
+                "Jl. Wastu Kencana",
+                "UNISBA & UNPAS (Tamansari)",
+                "Jl. Tamansari",
+                "ITB",
+                "Jl. Siliwangi",
+                "Jl. Sangkuriang",
+                "Jl. Cisitu",
+                "Jl. Cisitu Lama",
+                "Jl. Cisitu Lama VIII",
+                "Terminal Cisitu"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        }
+    },
+    {
+        "id_angkot": 29,
+        "warna": "CIUMBULEUIT - ST. HALL",
+        "jurusan": "CIUMBULEUIT - ST. HALL",
+        "forward": {
+            "lintasan_jalan": [
+                "Terminal Ciumbuleuit",
+                "Jl. Ciumbuleuit",
+                "UNPAR (Ciumbuleuit)",
+                "Jl. Cihampelas",
+                "Jl. Bapa Husen",
+                "Jl. Sederhana",
+                "Jl. Pasir Kaliki",
+                "RS. Hasan Sadikin",
+                "Jl. Pasteur",
+                "Jl. Cihampelas",
+                "Jl. Rivai",
+                "Jl. Cipto",
+                "Jl. Pajajaran",
+                "Jl. Cicendo",
+                "Jl. Kebon Kawung",
+                "Stasiun Bandung (Kebon Kawung)",
+                "Jl. Pasir Kaliki",
+                "Jl. Kebon Jati",
+                "Terminal Stasiun"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        },
+        "backward": {
+            "lintasan_jalan": [
+                "Terminal Stasiun",
+                "Jl. Suniaraja",
+                "Jl. Otista",
+                "Jl. Stasiun Timur",
+                "Viaduct",
+                "Jl. Perintis Kemerdekaan",
+                "Jl. Wastu Kencana",
+                "Jl. Pajajaran",
+                "Jl. Cihampelas",
+                "Jl. Rivai",
+                "Jl. Cipaganti",
+                "Jl. Eyckman",
+                "Jl. Sederhana",
+                "Jl. Sempuna",
+                "Jl. Cipaganti",
+                "Jl. Setiabudi",
+                "Jl. Ciumbuleuit",
+                "UNPAR (Ciumbuleuit)",
+                "Terminal Ciumbuleuit"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        }
+    },
+    {
+        "id_angkot": 30,
+        "warna": "CIWASTRA - TEGALEGA",
+        "jurusan": "CIWASTRA - TEGALEGA",
+        "forward": {
+            "lintasan_jalan": [
+                "Terminal Ciwastra",
+                "Jl. Ciwastra",
+                "Jl. Margacinta",
+                "Jl. Terusan Buah Batu",
+                "Jl. Sukarno-Hatta",
+                "Jl. Moh. Toha",
+                "Jl. Pungkur",
+                "Terminal Kebon Kelapa",
+                "Jl. Otto Iskandardinata",
+                "Terminal Tegalega"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        },
+        "backward": {
+            "lintasan_jalan": [
+                "Terminal Tegalega",
+                "Jl. Tegalega",
+                "Jl. Moh. Toha",
+                "Jl. Sukarno-Hatta",
+                "Jl. Terusan Buah Batu",
+                "Jl. Margacinta",
+                "Jl. Ciwastra",
+                "Terminal Ciwastra"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        }
+    },
+    {
+        "id_angkot": 31,
+        "warna": "Biru Muda - Kuning",
+        "jurusan": "CIWASTRA - UJUNG BERUNG PP.",
+        "forward": {
+            "lintasan_jalan": [
+                "Terminal Ciwastra",
+                "Riung Bandung",
+                "Jl. Sukarno-Hatta",
+                "Guruminda",
+                "Jl. Cisaranten",
+                "Jl. Cicukang",
+                "Jl. AH. Nasution (Raya Ujung Berung)",
+                "Pasar Ujung Berung"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        },
+        "backward": {
+            "lintasan_jalan": [
+                "Pasar Ujung Berung",
+                "Jl. AH. Nasution (Raya Ujung Berung)",
+                "Jl. Cicukang",
+                "Jl. Cisaranten",
+                "Guruminda",
+                "Jl. Sukarno-Hatta",
+                "Riung Bandung",
+                "Terminal Ciwastra"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        }
+    },
+    {
+        "id_angkot": 32,
+        "warna": "DAGO - RIUNG BANDUNG",
+        "jurusan": "DAGO - RIUNG BANDUNG",
+        "forward": {
+            "lintasan_jalan": [
+                "Terminal Dago",
+                "Jl. Ir. H. Juanda (Dago)",
+                "Simpang Dago",
+                "Jl. Dipati Ukur",
+                "Jl. Panatayuda",
+                "Jl. Surapati (Suci)",
+                "Jl. Sentot Alibasyah",
+                "Jl. Diponegoro",
+                "Jl. Citarum",
+                "Jl. RE. Martadinata",
+                "Jl. Laswi",
+                "Jl. Sukabumi",
+                "Jl. Ahmad Yani",
+                "Jl. Kiara Condong",
+                "Jl. Sukarno-Hatta",
+                "Margahayu Raya (Sukarno-Hatta)",
+                "Metro (Sukarno-Hatta)",
+                "Jl. Cipamolokan (Riung Bandung)",
+                "Jl. Riung Bandung",
+                "Terminal Riung Bandung"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        },
+        "backward": {
+            "lintasan_jalan": [
+                "Terminal Riung Bandung",
+                "Jl. Riung Bandung",
+                "Jl. Cipamolokan (Riung Bandung)",
+                "Jl. Sukarno-Hatta",
+                "Metro (Sukarno-Hatta)",
+                "Margahayu Raya (Sukarno-Hatta)",
+                "Jl. Kiara Condong",
+                "Jl. Jakarta",
+                "Jl. Sukabumi",
+                "Jl. Laswi",
+                "Jl. RE. Martadinata",
+                "Jl. Anggrek",
+                "Jl. Gudang Utara",
+                "Jl. Patra Komala",
+                "Jl. Belitung",
+                "Jl. Banda",
+                "Jl. Diponegoro",
+                "Jl. Aria Jipang",
+                "Jl. Surapati (Suci)",
+                "Jl. Panatayuda",
+                "Jl. Dipati Ukur",
+                "Simpang Dago",
+                "Jl. Ir. H. Juanda",
+                "Terminal Dago"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        }
+    },
+    {
+        "id_angkot": 33,
+        "warna": "DAGO - ST. HALL",
+        "jurusan": "DAGO - ST. HALL",
+        "forward": {
+            "lintasan_jalan": [
+                "Terminal Dago",
+                "Jl. Ir. H. Juanda",
+                "Simpang Dago",
+                "ITB (Jl. Ganesha, Dago)",
+                "RS Boromeus (Dago)",
+                "BIP (Merdeka)",
+                "Jl. Merdeka",
+                "Jl. Perintis Kemerdekaan",
+                "Jl. Braga",
+                "Jl. Suniaraja",
+                "Jl. Stasiun Barat (Stasiun Bandung)"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        },
+        "backward": {
+            "lintasan_jalan": [
+                "Jl. Stasiun Barat (Stasiun Bandung)",
+                "Jl. Stasiun Timur",
+                "Viaduct",
+                "Jl. Perintis Kemerdekaan",
+                "Jl. Wastu Kencana",
+                "Jl. RE. Martadinata",
+                "Jl. Ir. H. Juanda",
+                "RS Boromeus (Dago)",
+                "ITB (Jl. Ganesha, Dago)",
+                "Simpang Dago",
+                "Terminal Dag"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        }
+    },
+    {
+        "id_angkot": 34,
+        "warna": "DIPATI UKUR - PANGHEGAR",
+        "jurusan": "DIPATI UKUR - PANGHEGAR",
+        "forward": {
+            "lintasan_jalan": [
+                "Terminal Dipati Ukur",
+                "Jl. Hasanudin",
+                "Jl. Ir. H. Juanda",
+                "RS. Boromeus",
+                "Jl. Ganesha",
+                "ITB",
+                "Jl. Tamansari",
+                "Jl. Sawunggaling",
+                "UNISBA & UNPAS (Tamansari)",
+                "Jl. Wastu Kencana",
+                "Jl. RE. Martadinata",
+                "Jl. Banda",
+                "Jl. Belitung",
+                "Jl. Sumatera",
+                "Jl. Veteran",
+                "Jl. Ahmad Yani",
+                "Pasar Kosambi (Ahmad Yani)",
+                "Cicadas (Ahmad Yani)",
+                "Terminal Cicaheum",
+                "Jl. AH. Nasution",
+                "Sindanglaya (Nasution)",
+                "Ujung Berung (Nasution)",
+                "Jl. Cicukang",
+                "Jl. Cisaranten",
+                "Panghegar"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        },
+        "backward": {
+            "lintasan_jalan": [
+                "Terminal Panghegar",
+                "Jl. Cisaranten",
+                "Jl. Cicukang",
+                "Jl. AH. Nasution (Raya Ujung Berung)",
+                "Sindanglaya (Nasution)",
+                "Terminal Cicaheum",
+                "Jl. Ahmad Yani",
+                "Cicadas (Ahmad Yani)",
+                "Jl. Kiara Condong",
+                "Jl. Jakarta",
+                "Jl. Sukabumi",
+                "Jl. Laswi",
+                "Jl. RE. Martadinata",
+                "Jl. Ambon",
+                "Masjid Istiqamah",
+                "Jl. Cisanggarung",
+                "Jl. Cimanuk",
+                "Jl. Cimandiri",
+                "Jl. Cimalaya",
+                "Jl. Diponegoro",
+                "Jl. Sulanjana",
+                "Jl. Tamansari",
+                "Jl. Ganesha",
+                "ITB",
+                "RS. Boromeus",
+                "Jl. Hasanudin",
+                "Jl. Dipati Ukur",
+                "Terminal Dipati Ukur"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        }
+    },
+    {
+        "id_angkot": 35,
+        "warna": "Hijau muda - Hijau",
+        "jurusan": "GEDE BAGE - ST. HALL",
+        "forward": {
+            "lintasan_jalan": [
+                "Pasar Induk Gede Bage",
+                "Jl. Sukarno-Hatta",
+                "Riung Bandung (Sukarno-Hatta)",
+                "Metro (Sukarno-Hatta)",
+                "Margahayu Raya (Sukarno-Hatta)",
+                "Jl. Buah Batu",
+                "Jl. Kliningan",
+                "Jl. Karawitan",
+                "Jl. Mas Kumambang",
+                "Jl. Martanegara",
+                "Jl. Pelajar Pejuang",
+                "Jl. Talaga Bodas",
+                "Jl. Malabar",
+                "Jl. Ahmad Yani",
+                "Pasar Kosambi (Ahmad Yani)",
+                "Jl. Sunda",
+                "Jl. Sumbawa",
+                "Jl. Belitung",
+                "Jl. Sumatera",
+                "Jl. Aceh",
+                "Jl. Merdeka",
+                "Jl. Perintis Kemerdekaan",
+                "Viaduct",
+                "Jl. Kebon Jukut",
+                "Jl. Kebon Kawung",
+                "Stasiun Bandung (Kebon Kawung)",
+                "Jl. Pasir Kaliki",
+                "Jl. Kebon Jati",
+                "Jl. Suniaraja",
+                "Terminal Stasiun"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        },
+        "backward": {
+            "lintasan_jalan": [
+                "Terminal Stasiun",
+                "Jl. Dulatip",
+                "Pasar Baru",
+                "Jl. Otto Iskandardinata (Otista)",
+                "Jl. Kepatihan",
+                "Jl. Dewi Sartika",
+                "Jl. Dalem Kaum",
+                "Alun-Alun (Asia Afrika)",
+                "Jl. Banceuy",
+                "Jl. ABC",
+                "Jl. Naripan",
+                "Jl. Sunda",
+                "Jl. Veteran",
+                "Jl. Ahmad Yani",
+                "Jl. Gatot Subroto",
+                "Jl. Burangrang",
+                "Jl. Halimun",
+                "Jl. Malabar",
+                "Jl. Talaga Bodas",
+                "Jl. Pelajar Pejuang",
+                "Jl. Martanegara",
+                "Jl. Reog",
+                "Jl. Karawitan",
+                "Jl. Kliningan",
+                "Jl. Buah Batu",
+                "Jl. Sukarno-Hatta",
+                "Margahayu Raya (Sukarno-Hatta)",
+                "Metro (Sukarno-Hatta)",
+                "Riung Bandung (Sukarno-Hatta)",
+                "Pasar Induk Gede Bage"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        }
+    },
+    {
+        "id_angkot": 36,
+        "warna": "Biru Muda - Hijau",
+        "jurusan": "GUNUNG BATU - ST. HALL",
+        "forward": {
+            "lintasan_jalan": [
+                "Terminal Gunung Batu",
+                "Jl. Gunung Batu",
+                "Jl. DR. Junjunan (Terusan Pasteur)",
+                "Jl. Westhoff",
+                "Jl. Pasteur",
+                "BEC (Pasteur)",
+                "Jl. Cihampelas",
+                "Jl. Wastu Kencana",
+                "Jl. Pajajaran",
+                "Jl. Cicendo",
+                "Jl. Kebon Kawung",
+                "Stasiun Bandung (Kebon Kawung)",
+                "Jl. Pasir Kaliki",
+                "Jl. Kebon Jati",
+                "Jl. Suniaraja",
+                "Terminal Stasiun"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        },
+        "backward": {
+            "lintasan_jalan": [
+                "Terminal Stasiun",
+                "Jl. Otista",
+                "Jl. Stasiun Timur",
+                "Viaduct",
+                "Jl. Perintis Kemerdekaan",
+                "Jl. Wastu Kencana",
+                "Jl. Pajajaran",
+                "Jl. Cihampelas",
+                "Jl. Rivai",
+                "Jl. Rum",
+                "Jl. Gunawan",
+                "Jl. Otten",
+                "Jl. Pasteur",
+                "BEC (Pasteur)",
+                "Jl. Westhoff",
+                "Jl. DR. Junjunan (Terusan Pasteur)",
+                "Jl. Gunung Batu",
+                "Terminal Gunung Batu"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        }
+    },
+    {
+        "id_angkot": 37,
+        "warna": "LEDENG - MARGAHAYU",
+        "jurusan": "LEDENG - MARGAHAYU",
+        "forward": {
+            "lintasan_jalan": [
+                "Terminal Ledeng",
+                "Jl. Setiabudi",
+                "Jl. Karang Sari",
+                "Jl. Sukajadi",
+                "Jl. Cemara",
+                "Jl. Jurang",
+                "Jl. Sederhana",
+                "Jl. Eyckman",
+                "Jl. Cihampelas",
+                "Jl. Wastu Kencana",
+                "Jl. RE. Martadinata",
+                "Jl. Ahmad Yani",
+                "Cicadas (Ahmad Yani)",
+                "Jl. Kiara Condong",
+                "Jl. Sukarno-Hatta",
+                "Jl. Ranca Bolang (Margahayu Raya)",
+                "Terminal Margahayu"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        },
+        "backward": {
+            "lintasan_jalan": [
+                "Terminal Margahayu",
+                "Jl. Ranca Bolang (Margahayu Raya)",
+                "Jl. Sukarno-Hatta",
+                "Jl. Kiara Condong",
+                "Jl. Jakarta",
+                "Jl. WR. Supratman",
+                "Jl. Cendana",
+                "Jl. Taman Pramuka",
+                "Jl. RE. Martadinata",
+                "???",
+                "Jl. Wastu Kencana",
+                "Jl. Pajajaran",
+                "Jl. Cicendo",
+                "Jl. Rivai",
+                "Jl. Cipaganti",
+                "Jl. Setiabudi",
+                "Jl. Karang Sari",
+                "Jl. Sukajadi",
+                "Jl. Setiabudi",
+                "Terminal Ledeng"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        }
+    },
+    {
+        "id_angkot": 38,
+        "warna": "LEMBANG - ST. HALL",
+        "jurusan": "LEMBANG - ST. HALL",
+        "forward": {
+            "lintasan_jalan": [
+                "Terminal Lembang",
+                "Jl. Lembang",
+                "Terminal Ledeng",
+                "Jl. Setiabudi",
+                "Jl. Sukawangi",
+                "Jl. Sukajadi",
+                "RS. Hasan Sadikin",
+                "Jl. Pasir Kaliki",
+                "Jl. Pajajaran",
+                "Jl. Cicendo",
+                "Jl. Kebon Kawung",
+                "Stasiun Bandung (Kebon Kawung)",
+                "Jl. Pasir Kaliki",
+                "Jl. Kebon Jukut",
+                "Terminal Stasiun"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        },
+        "backward": {
+            "lintasan_jalan": [
+                "Terminal Stasiun",
+                "Jl. Otista",
+                "Jl. Stasiun Timur",
+                "Viaduct",
+                "Jl. Kebon Jukut",
+                "Jl. Kebon Kawung",
+                "Stasiun Bandung (Kebon Kawung)",
+                "Jl. Pasir Kaliki",
+                "RS. Hasan Sadikin",
+                "Jl. Sukajadi",
+                "Jl. Setiabudi",
+                "Terminal Ledeng",
+                "Jl. Lembang",
+                "Terminal Lembang"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        }
+    },
+    {
+        "id_angkot": 39,
+        "warna": "Pink - Hijau",
+        "jurusan": "PANYILEUKAN - SEKEMIRUNG (Gedebage - Simpang Dago) - 05.00-21.00",
+        "forward": {
+            "lintasan_jalan": [
+                "Pasar Induk Gede Bage (Sukarno-Hatta)",
+                "Jl. Rumah Sakit",
+                "Jl. AH. Nasution",
+                "Ujung Berung (Nasution)",
+                "Sindanglaya (Nasution)",
+                "Terminal Cicaheum",
+                "Jl. PHH. Mustofa (Suci)",
+                "Jl. Cikutra",
+                "Jl. Pahlawan",
+                "Jl. Surapati (Suci)",
+                "Lapangan Gasibu (Surapati)",
+                "Jl. Panatayuda",
+                "Jl. Dipati Ukur",
+                "Jl. Ki Gede Utama",
+                "Jl. Hasanudin",
+                "RS. Boromeus (Juanda)",
+                "Jl. Ir. H. Juanda",
+                "Simpang Dago",
+                "*Jl. TB. Ismail",
+                "*Jl. Sadang Serang",
+                "*Jl. Cikutra Barat",
+                "*Jl. Cikondang",
+                "*Jl. Cibeunying Kolot",
+                "*Jl. Cigadung Raya",
+                "*Terminal Awiligar"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        },
+        "backward": {
+            "lintasan_jalan": [
+                "*Terminal Awiligar",
+                "*Jl. Cigadung Raya",
+                "*Jl. Cibeunying Kolot",
+                "*Jl. Cikondang",
+                "*Jl. Cikutra Barat",
+                "*Jl. Sadang Serang",
+                "*Jl. TB. Ismail",
+                "Simpang Dago (Juanda)",
+                "Jl. Ir. H. Juanda",
+                "RS. Boromeus (Juanda)",
+                "Jl. Hasanudin",
+                "Jl. Pager Gunung",
+                "Jl. Dipati Ukur",
+                "Jl. Panatayuda",
+                "Jl. Surapati (Suci)",
+                "Lapangan Gasibu (Surapati)",
+                "Jl. PHH. Mustofa (Suci)",
+                "Terminal Cicaheum",
+                "Jl. AH. Nasution",
+                "Sindanglaya (Nasution)",
+                "Ujung Berung (Nasution)",
+                "Jl. Rumah Sakit",
+                "Pasar Induk Gede Bage (Sukarno-Hatta)"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        }
+    },
+    {
+        "id_angkot": 40,
+        "warna": "Hijau - Kuning (Kijang)",
+        "jurusan": "SADANG SERANG - ST. HALL",
+        "forward": {
+            "lintasan_jalan": [
+                "Terminal Sadang Serang",
+                "Jl. Cikutra Barat",
+                "Jl. Pahlawan",
+                "Jl. Katamso",
+                "Jl. WR. Supratman",
+                "Jl. Citarum",
+                "Jl. Lombok",
+                "Jl. Belitung",
+                "Jl. Sumatera",
+                "Jl. Aceh",
+                "Jl. Merdeka",
+                "Jl. Perintis Kemerdekaan",
+                "Jl. Braga",
+                "Jl. Suniaraja",
+                "Viaduct",
+                "Jl. Kebon Jukut",
+                "Jl. Kebon Kawung",
+                "Stasiun Bandung (Kebon Kawung)",
+                "Jl. Pasir Kaliki",
+                "Jl. Suniaraja",
+                "Terminal Stasiun"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        },
+        "backward": {
+            "lintasan_jalan": [
+                "Terminal Stasiun",
+                "Jl. Otista",
+                "Jl. Stasiun Timur",
+                "Viaduct",
+                "Jl. Perintis Kemerdekaan",
+                "Braga",
+                "Jl. Lembong",
+                "Jl. Veteran",
+                "Jl. Sunda",
+                "Jl. Sumbawa",
+                "Jl. Lombok",
+                "Jl. Citarum",
+                "Jl. WR. Supratman",
+                "Jl. Katamso",
+                "Jl. Pahlawan",
+                "Jl. Cikutra Barat",
+                "Terminal Sadang Serang"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        }
+    },
+    {
+        "id_angkot": 41,
+        "warna": "SARIJADI - ST. HALL",
+        "jurusan": "SARIJADI - ST. HALL",
+        "forward": {
+            "lintasan_jalan": [
+                "Terminal Sarijadi",
+                "Jl. Sari Asih (Sarijadi)",
+                "Jl. Sari Manah (Sarijadi)",
+                "Jl. Sari Wangi (Sarijadi)",
+                "Jl. Sari Rasa (Sarijadi)",
+                "Jl. Surya Sumantri",
+                "Universitas Maranatha (Surya Sumantri)",
+                "Jl. DR. Junjunan (Terusan Pasteur)",
+                "Jl. Pasir Kaliki",
+                "Jl. Pajajaran",
+                "Jl. Cicendo",
+                "Jl. Kebon Kawung",
+                "Stasiun Bandung (Kebon Kawung)",
+                "Jl. Pasir Kaliki",
+                "Jl. Kebon Jati",
+                "Jl. Suniaraja",
+                "Terminal Stasiun"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        },
+        "backward": {
+            "lintasan_jalan": [
+                "Terminal Stasiun",
+                "Jl. Suniaraja",
+                "Jl. Otista",
+                "Jl. Stasiun Timur",
+                "Viaduct",
+                "Jl. Kebon Jukut",
+                "Jl. Kebon Kawung",
+                "Stasiun Bandung (Kebon Kawun)",
+                "Jl. Pasir Kaliki",
+                "Istana Plaza (Pasir Kaliki)",
+                "Jl. DR. Junjunan (Terusan Pasteur)",
+                "BTC (Pasteur)",
+                "Jl. Surya Sumantri",
+                "Universitas Maranatha (Surya Sumantri)",
+                "Jl. Lemah Nendeut (Sarijadi)",
+                "Jl. Sari Rasa (Sarijadi)",
+                "Jl. Sari Wangi (Sarijadi)",
+                "Jl. Sari Manah (Sarijadi)",
+                "Jl. Sari Asih (Sarijadi)",
+                "Terminal Sarijadi"
+            ],
+            "geometry": [
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ]
+        }
+    }
+]

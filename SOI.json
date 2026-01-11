@@ -1,0 +1,77 @@
+[
+  {
+    "kategori": "Terminal & Hub Transportasi",
+    "titik": [
+      { "nama": "Terminal Kebon Kalapa (Abdul Muis)", "lat": null, "lng": null },
+      { "nama": "Terminal Cicaheum", "lat": null, "lng": null },
+      { "nama": "Terminal Leuwipanjang", "lat": null, "lng": null },
+      { "nama": "Terminal Ledeng", "lat": null, "lng": null },
+      { "nama": "Stasiun Bandung (Hall & Kebon Kawung)", "lat": null, "lng": null },
+      { "nama": "Terminal Ciroyom", "lat": null, "lng": null },
+      { "nama": "Terminal Dago", "lat": null, "lng": null },
+      { "nama": "Terminal Antapani", "lat": null, "lng": null },
+      { "nama": "Terminal Elang", "lat": null, "lng": null },
+      { "nama": "Simpang Dago (Transit Point)", "lat": null, "lng": null },
+      { "nama": "Pool Damri Kebon Jati", "lat": null, "lng": null }
+    ]
+  },
+  {
+    "kategori": "Pendidikan (Kampus & Sekolah)",
+    "titik": [
+      { "nama": "Kawasan Dipatiukur (UNPAD / UNIKOM / ITHB)", "lat": null, "lng": null },
+      { "nama": "Kawasan Ganesha (ITB)", "lat": null, "lng": null },
+      { "nama": "Kawasan Tamansari (Unisba / Unpas)", "lat": null, "lng": null },
+      { "nama": "Kawasan Setiabudi (UPI / Unpas)", "lat": null, "lng": null },
+      { "nama": "Kawasan Surya Sumantri (Maranatha)", "lat": null, "lng": null },
+      { "nama": "Kawasan Cikutra (Widyatama / Itenas)", "lat": null, "lng": null },
+      { "nama": "Kawasan Buah Batu (ISBI)", "lat": null, "lng": null },
+      { "nama": "Kawasan Lengkong (Unpas)", "lat": null, "lng": null },
+      { "nama": "Kawasan Suci (Ekuitas / Sangga Buana)", "lat": null, "lng": null }
+    ]
+  },
+  {
+    "kategori": "Pusat Ekonomi & Perbelanjaan",
+    "titik": [
+      { "nama": "Pasar Baru Trade Center", "lat": null, "lng": null },
+      { "nama": "Alun-Alun Bandung", "lat": null, "lng": null },
+      { "nama": "Paris Van Java (PVJ)", "lat": null, "lng": null },
+      { "nama": "Cihampelas Walk (Ciwalk)", "lat": null, "lng": null },
+      { "nama": "Bandung Indah Plaza (BIP)", "lat": null, "lng": null },
+      { "nama": "Pasar Kosambi", "lat": null, "lng": null },
+      { "nama": "Pasar Cicadas", "lat": null, "lng": null },
+      { "nama": "Trans Studio Mall (TSM)", "lat": null, "lng": null },
+      { "nama": "ITC Kebon Kalapa", "lat": null, "lng": null },
+      { "nama": "Bandung Electronic Center (BEC)", "lat": null, "lng": null },
+      { "nama": "Pasar induk Gedebage", "lat": null, "lng": null },
+      { "nama": "Kawasan Braga", "lat": null, "lng": null }
+    ]
+  },
+  {
+    "kategori": "Fasilitas Kesehatan",
+    "titik": [
+      { "nama": "RS Hasan Sadikin (RSHS)", "lat": null, "lng": null },
+      { "nama": "RS Borromeus", "lat": null, "lng": null },
+      { "nama": "RS Advent", "lat": null, "lng": null },
+      { "nama": "RS Santo Yusup", "lat": null, "lng": null },
+      { "nama": "RS Muhammadiyah", "lat": null, "lng": null },
+      { "nama": "RSKIA Kota Bandung (Astana Anyar)", "lat": null, "lng": null }
+    ]
+  },
+  {
+    "kategori": "Simpang & Jalan Strategis (Titik Overlap)",
+    "titik": [
+      { "nama": "Simpang Lima (Asia Afrika)", "lat": null, "lng": null },
+      { "nama": "Perempatan Binong (Gatot Subroto - Kiaracondong)", "lat": null, "lng": null },
+      { "nama": "Flyover Pasupati / Pasteur", "lat": null, "lng": null },
+      { "nama": "Perempatan Samsat (Soekarno-Hatta)", "lat": null, "lng": null },
+      { "nama": "Gedung Sate / Gasibu", "lat": null, "lng": null },
+      { "nama": "Simpang Buah Batu", "lat": null, "lng": null },
+      { "nama": "Perempatan Pahlawan", "lat": null, "lng": null },
+      { "nama": "Bundaran Cibiru", "lat": null, "lng": null },
+      { "nama": "Simpang Pasteur - Pasir Kaliki", "lat": null, "lng": null },
+      { "nama": "Jalan Otto Iskandardinata (Otista)", "lat": null, "lng": null },
+      { "nama": "Jalan Asia Afrika", "lat": null, "lng": null },
+      { "nama": "Jalan Ahmad Yani (Suci)", "lat": null, "lng": null }
+    ]
+  }
+]
