@@ -25,7 +25,7 @@ def hitung_total_lintasan(coords):
     return round(total_jarak, 2)
 
 def main():
-    input_file = 'data_angkot_v2_HALUS.json'
+    input_file = './hasil_json/data_angkot_v2_FINAL_CLEAN(4).json'
     output_file = 'data_angkot_v2_WITH_DISTANCE.json'
     
     with open(input_file, 'r', encoding='utf-8') as f:
@@ -42,8 +42,6 @@ def main():
 
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4)
-
-    print(f"\n✅ Perhitungan selesai! Data disimpan di: {output_file}")
 
 if __name__ == "__main__":
     main()

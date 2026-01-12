@@ -35,7 +35,7 @@ def get_osrm_route_chunked(coords):
         except Exception as e:
             print(f" (Conn error) ", end="")
         
-        time.sleep(0.5) # Jeda antar chunk
+        time.sleep(0.5) 
 
     return all_smoothed_coords if all_smoothed_coords else coords
 
